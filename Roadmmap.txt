@@ -1,0 +1,73 @@
+
+📌 Why Learn DSA in JavaScript?
+    JavaScript is widely used in frontend (React, Next.js) and backend (Node.js, Express).
+    Tech interviews often require DSA knowledge.
+    It strengthens problem-solving skills and optimizes your code.
+
+📚 Core Topics in JavaScript DSA
+
+  1. Time & Space Complexity
+    Big-O, Big-Ω, Big-Θ
+    Common complexities: O(1), O(n), O(n²), O(log n), O(n log n)
+
+  2. Basic Data Structures
+    Arrays
+      Traversal, Insertion, Deletion
+      Problems: Reverse array, Two Sum, Kadane’s Algorithm
+
+    Strings
+      Palindrome, Anagram, Substrings
+
+    Objects & Maps
+      Key-value storage, Hash tables
+
+    Sets
+      Unique values, union, intersection
+
+  3. Advanced Data Structures
+    Linked List
+      Singly, Doubly, Circular
+
+    Stack & Queue
+      Using arrays or linked lists
+      Problems: Balanced Parentheses, Next Greater Element
+
+    Trees
+      Binary Trees, Binary Search Trees (BST)
+      Traversals (DFS, BFS)
+
+    Graph
+      Adjacency List/Matrix
+      BFS, DFS, Dijkstra, Topological Sort
+
+    Heap/Priority Queue
+      Min-Heap, Max-Heap
+
+    Trie
+      Prefix-based word searching
+
+  4. Algorithms  
+      Sorting
+        Bubble, Selection, Insertion, Merge, Quick, Heap
+
+      Searching
+        Linear Search, Binary Search
+
+      Recursion & Backtracking
+        Factorial, Fibonacci, N-Queens
+
+      Dynamic Programming
+        Memoization, Tabulation
+        Problems: Climbing Stairs, Longest Common Subsequence
+
+      Greedy Algorithms
+        Activity Selection, Huffman Coding
+
+      Graph Algorithms
+        Dijkstra, Bellman-Ford, Floyd-Warshall, Kruskal, Prim
+
+
+
+
+
+
