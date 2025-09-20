@@ -1,84 +1,84 @@
 🔹 Arrays & Strings
-  Reverse an array. (Easy)
-  Find the maximum and minimum in an array. (Easy)
-  Check if a string is a palindrome. (Easy)
-  Rotate an array by k steps. (Medium)
-  Find the first non-repeating character in a string. (Medium)
-  Longest substring without repeating characters. (Hard)
+    Reverse an array. (Easy)
+    Find the maximum and minimum in an array. (Easy)
+    Check if a string is a palindrome. (Easy)
+    Rotate an array by k steps. (Medium)
+    Find the first non-repeating character in a string. (Medium)
+    Longest substring without repeating characters. (Hard)
 
 🔹 Linked Lists
-  Implement a singly linked list. (Easy)
-  Reverse a linked list. (Medium)
-  Detect a cycle in a linked list. (Medium)
-  Merge two sorted linked lists. (Medium)
-  Find the middle of a linked list. (Medium)
-  Clone a linked list with random pointers. (Hard)
+    Implement a singly linked list. (Easy)
+    Reverse a linked list. (Medium)
+    Detect a cycle in a linked list. (Medium)
+    Merge two sorted linked lists. (Medium)
+    Find the middle of a linked list. (Medium)
+    Clone a linked list with random pointers. (Hard)
 
 🔹 Stacks & Queues
-  Implement a stack using arrays. (Easy)
-  Implement a queue using two stacks. (Medium)
-  Validate parentheses in a string. (Medium)
-  Evaluate postfix expression. (Medium)
-  Min stack (return min in O(1)). (Hard)
-  Sliding window maximum. (Hard)
+    Implement a stack using arrays. (Easy)
+    Implement a queue using two stacks. (Medium)
+    Validate parentheses in a string. (Medium)
+    Evaluate postfix expression. (Medium)
+    Min stack (return min in O(1)). (Hard)
+    Sliding window maximum. (Hard)
 
 🔹 Trees
-  Implement a binary tree (insert & traverse). (Easy)
-  Find the height of a binary tree. (Medium)
-  Level order traversal (BFS). (Medium)
-  Check if a tree is balanced. (Medium)
-  Lowest common ancestor of two nodes. (Hard)
-  Serialize & deserialize a binary tree. (Hard)
+    Implement a binary tree (insert & traverse). (Easy)
+    Find the height of a binary tree. (Medium)
+    Level order traversal (BFS). (Medium)
+    Check if a tree is balanced. (Medium)
+    Lowest common ancestor of two nodes. (Hard)
+    Serialize & deserialize a binary tree. (Hard)
 
 🔹 Graphs
-  Represent a graph (adjacency list). (Easy)
-  Depth-first search (DFS). (Easy)
-  Breadth-first search (BFS). (Easy)
-  Detect a cycle in a graph. (Medium)
-  Shortest path in unweighted graph (BFS). (Medium)
-  Dijkstra’s shortest path algorithm. (Hard)
-  Topological sort (DAG). (Hard)
+    Represent a graph (adjacency list). (Easy)
+    Depth-first search (DFS). (Easy)
+    Breadth-first search (BFS). (Easy)
+    Detect a cycle in a graph. (Medium)
+    Shortest path in unweighted graph (BFS). (Medium)
+    Dijkstra’s shortest path algorithm. (Hard)
+    Topological sort (DAG). (Hard)
 
 🔹 Hash Tables
-  Count character frequency in a string. (Easy)
-  Find two numbers that sum to a target (Two Sum). (Easy)
-  Check if two strings are anagrams. (Medium)
-  Longest consecutive sequence in an array. (Medium)
-  Implement LRU Cache. (Hard)
+    Count character frequency in a string. (Easy)
+    Find two numbers that sum to a target (Two Sum). (Easy)
+    Check if two strings are anagrams. (Medium)
+    Longest consecutive sequence in an array. (Medium)
+    Implement LRU Cache. (Hard)
 
 🔹 Heaps (Priority Queues)
-  Find k largest elements in an array. (Medium)
-  Merge k sorted lists. (Hard)
-  Find median from a data stream. (Hard)
+    Find k largest elements in an array. (Medium)
+    Merge k sorted lists. (Hard)
+    Find median from a data stream. (Hard)
 
 🔹 Sorting Algorithms
-  Implement Bubble Sort. (Easy)
-  Implement Merge Sort. (Medium)
-  Implement Quick Sort. (Medium)
-  Sort colors (Dutch National Flag problem). (Medium)
+    Implement Bubble Sort. (Easy)
+    Implement Merge Sort. (Medium)
+    Implement Quick Sort. (Medium)
+    Sort colors (Dutch National Flag problem). (Medium)
 
 🔹 Searching Algorithms
-  Implement Linear Search. (Easy)
-  Implement Binary Search. (Easy)
-  Search in rotated sorted array. (Medium)
-  Find first and last position of element in sorted array. (Medium)
+    Implement Linear Search. (Easy)
+    Implement Binary Search. (Easy)
+    Search in rotated sorted array. (Medium)
+    Find first and last position of element in sorted array. (Medium)
 
 🔹 Dynamic Programming
-  Fibonacci with memoization. (Easy)
-  Climbing stairs problem. (Easy)
-  Coin change problem. (Medium)
-  Longest common subsequence. (Medium)
-  0/1 Knapsack problem. (Hard)
-  Edit distance (Levenshtein distance). (Hard)
+    Fibonacci with memoization. (Easy)
+    Climbing stairs problem. (Easy)
+    Coin change problem. (Medium)
+    Longest common subsequence. (Medium)
+    0/1 Knapsack problem. (Hard)
+    Edit distance (Levenshtein distance). (Hard)
 
 🔹 Mixed Challenges (Real-World Style)
-  Design a URL shortener (uses Hash Tables).
-  Implement autocomplete suggestions (Tries/Trees).
-  Friend recommendation system (Graphs).
-  Stock span problem (Stacks).
-  Pathfinding in a maze (Graphs + BFS/DFS).
-  Social media feed ranking (Heaps + Sorting).
-  Caching frequently used data (Hash Tables + LRU).
+    Design a URL shortener (uses Hash Tables).
+    Implement autocomplete suggestions (Tries/Trees).
+    Friend recommendation system (Graphs).
+    Stock span problem (Stacks).
+    Pathfinding in a maze (Graphs + BFS/DFS).
+    Social media feed ranking (Heaps + Sorting).
+    Caching frequently used data (Hash Tables + LRU).
 
 ✅ That’s 60 problems covering every major DSA concept in JavaScript.
   If you solve these step by step, you’ll be interview ready and solid in fundamentals.
